@@ -1,0 +1,349 @@
+
+  - description: ""
+    label: "Frontpage"
+    name: "frontpage"
+    sort: 100
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/frontpage.tpl"
+    content: "/content/frontpage.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "desc"
+        label: "Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "btn_1"
+        label: "Btn 1"
+        description: ""
+        datatype: "text"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "btn_2"
+        label: "Btn 2"
+        description: ""
+        datatype: "text"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "pricing_title"
+        label: "Pricing Title"
+        description: ""
+        datatype: "text"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "pricing_desc"
+        label: "Pricing Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 6
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "testimonials_title"
+        label: "Testimonials Title"
+        description: ""
+        datatype: "text"
+        sort: 7
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "testimonials_desc"
+        label: "Testimonials Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 8
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_title"
+        label: "Contact Title"
+        description: ""
+        datatype: "text"
+        sort: 9
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_desc"
+        label: "Contact Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "duration"
+        label: "Duration"
+        description: ""
+        datatype: "text"
+        sort: 11
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "pricing_btn"
+        label: "Pricing Btn"
+        description: ""
+        datatype: "text"
+        sort: 12
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "modal_msg"
+        label: "Modal Msg"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "msg_label"
+        label: "Msg Label"
+        description: ""
+        datatype: "text"
+        sort: 15
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "email_label"
+        label: "Email Label"
+        description: ""
+        datatype: "text"
+        sort: 14
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "name_label"
+        label: "Name Label"
+        description: ""
+        datatype: "text"
+        sort: 13
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "modal_title"
+        label: "Modal Title"
+        description: ""
+        datatype: "text"
+        sort: 17
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_btn"
+        label: "Contact Btn"
+        description: ""
+        datatype: "text"
+        sort: 16
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "currency"
+        label: "Currency"
+        description: ""
+        datatype: "currency"
+        sort: 5
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "modal_btn"
+        label: "Modal Btn"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Featured"
+    name: "featured"
+    sort: 102
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "frontpage"
+    content: "/content/featured.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "desc"
+        label: "Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "btn"
+        label: "Btn"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Prices"
+    name: "prices"
+    sort: 103
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "frontpage"
+    content: "/content/prices.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "amount"
+        label: "Amount"
+        description: ""
+        datatype: "number"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "desc"
+        label: "Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Testimonials"
+    name: "testimonials"
+    sort: 104
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "frontpage"
+    content: "/content/testimonials.yaml"
+    fields:
+      - name: "name"
+        label: "Name"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "review"
+        label: "Review"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Navigation"
+    name: "navigation"
+    sort: 114
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "frontpage"
+    content: "/content/navigation.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true

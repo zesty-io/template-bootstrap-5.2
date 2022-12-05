@@ -1,0 +1,64 @@
+
+  - id: "dae7-fc7d-ff5e"
+    web:
+      metaDescription: "Enjoy discounted products.Take advantage of the flexibility, affordability, and secure options to protect what matters most."
+      metaTitle: "For Students"
+      metaLinkText: "For Students"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      btn: "Show More"
+      desc: "<p>Enjoy discounted products.<br />Take advantage of the flexibility, affordability, and secure options to protect what matters most.</p>"
+      sort_order: 1
+      title: "For Students"
+  - id: "8c88-3c5b-c44d"
+    web:
+      metaDescription: "Protection for the family. We know you have the right to be safe online, which is why we offer our award-winning free antivirus to millions of people around the"
+      metaTitle: "For Home"
+      metaLinkText: "For Home"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      btn: "Show More"
+      desc: "<p>Protection for the family. <br />We know you have the right to be safe online, which is why we offer our award-winning free antivirus to millions of people around the world.</p>"
+      sort_order: 2
+      title: "For Home"
+  - id: "6aac-f86d-f282"
+    web:
+      metaDescription: "We know what it takes to keep you and your business secure. We're here to help with proactive security that adapts to changing threats."
+      metaTitle: "For Business"
+      metaLinkText: "For Business"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      btn: "Show More"
+      desc: "<p>We know what it takes to keep you and your business secure. We're here to help with proactive security that adapts to changing threats.</p>"
+      sort_order: 3
+      title: "For Business"

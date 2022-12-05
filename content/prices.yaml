@@ -1,0 +1,64 @@
+
+  - id: "019b-fa96-4006"
+    web:
+      metaDescription: ""
+      metaTitle: "Basic"
+      metaLinkText: "Basic"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 108
+      listed: true
+    data:
+      amount: 9
+      desc: "<ul style=\"list-style-type: none; padding: 0px;\">\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Block viruses and malware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Protect against ransomware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Avoid fake and unsafe websites</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Stop PC remote access attacks</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Secure VPN for online privacy</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Minimal system toll</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Safeguard for your files</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Parental controls</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Date encryption for Public Wi-Fi</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Password security vault</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Anti-Phishing</li>\n</ul>"
+      sort_order: 1
+      title: "Basic"
+  - id: "fe7b-2606-31af"
+    web:
+      metaDescription: "\nBlock viruses and malware\nProtect against ransomware\nAvoid fake and unsafe websites\nStop PC remote access attacks\nSecure VPN for complete online privacy\nMinima"
+      metaTitle: "Advanced"
+      metaLinkText: "Advanced"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 109
+      listed: true
+    data:
+      amount: 15
+      desc: "<ul style=\"list-style-type: none; padding: 0px;\">\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Block viruses and malware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Protect against ransomware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Avoid fake and unsafe websites</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Stop PC remote access attacks</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Secure VPN for online privacy</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Minimal system toll</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Safeguard for your files</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Parental controls</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Date encryption for Public Wi-Fi</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Password security vault</li>\n<li class=\"text-muted\"><i class=\"bi bi-x\"></i>Anti-Phishing</li>\n</ul>"
+      sort_order: 2
+      title: "Advanced"
+  - id: "4433-d80b-bc2a"
+    web:
+      metaDescription: "\nBlock viruses and malware\nProtect against ransomware\nAvoid fake and unsafe websites\nStop PC remote access attacks\nSecure VPN for complete online privacy\nMinima"
+      metaTitle: "Premium"
+      metaLinkText: "Premium"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 110
+      listed: true
+    data:
+      amount: 20
+      desc: "<ul style=\"list-style-type: none; padding: 0;\">\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Block viruses and malware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Protect against ransomware</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Avoid fake and unsafe websites</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Stop PC remote access attacks</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Secure VPN for online privacy</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Minimal system toll</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Safeguard for your files</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Parental controls</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Date encryption for Public Wi-Fi</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Password security vault</li>\n<li class=\"mb-2\"><i class=\"bi bi-check text-primary\"></i>Anti-Phishing</li>\n</ul>"
+      sort_order: 3
+      title: "Premium"

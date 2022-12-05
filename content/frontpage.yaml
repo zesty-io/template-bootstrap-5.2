@@ -1,0 +1,38 @@
+
+  - id: "0f8a-4baa-0dff"
+    web:
+      metaDescription: ""
+      metaTitle: "Frontpage"
+      metaLinkText: "Frontpage"
+      metaKeywords: null
+      pathPart: "frontpage"
+      path: "/frontpage/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      btn_1: "Get Started"
+      btn_2: "Learn More"
+      contact_btn: "Submit"
+      contact_desc: "<p>We'd love to hear from you</p>"
+      contact_title: "Contact Us"
+      currency: ""
+      desc: "<p class=\"lead text-white-50 mb-4\">Life online demands protection, but can be challenging. We help you find safer ways to connect in your home and online. Let us show you how our innovative technology and offerings can help you feel confident using the Internet and social media.</p>"
+      duration: "month"
+      email_label: "Email"
+      modal_btn: "Close"
+      modal_msg: "Message sent, Thank you"
+      modal_title: "The Fence"
+      msg_label: "Message"
+      name_label: "Full Name"
+      pricing_btn: "Buy Now"
+      pricing_desc: "<p>See our offers and pick your plan</p>"
+      pricing_title: "Our Prices"
+      testimonials_desc: "<p>Here's some of our customers' review.<br />We're committed to making our product better for you &ndash; so we hear your feedback and constantly improve.</p>"
+      testimonials_title: "Our Customers"
+      title: "We're here to protect you"
